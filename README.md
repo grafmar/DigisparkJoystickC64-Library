@@ -4,7 +4,7 @@ Library based on DigisparkJoystick adapted to match USB identification of a ["Th
 ## Installation
 * [Arduino IDE](https://www.arduino.cc/en/main/software)
 * Install [Digistump connection for Arduino IDE](https://digistump.com/wiki/digispark/tutorials/connecting)
-* Copy directory to (in Win10): `%UserProfile%\AppData\Local\Arduino15\packages\digistump\hardware\avr\1.6.7\libraries`
+* Copy directory `DigisparkJoystickC64` to (in Win10): `%UserProfile%\AppData\Local\Arduino15\packages\digistump\hardware\avr\1.6.7\libraries`
 * Use example project for first start or implement something like in the project [Digispark C64 Joystick Adapter](https://github.com/grafmar/Digispark_C64_Joystick_Adapter)
 
 ## Hardware
