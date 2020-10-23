@@ -1,5 +1,5 @@
 # DigisparkJoystickC64-Library
-Library based on DigisparkJoystick adapted to match USB identification of a ["The C64 Joystick"](https://retrogames.biz/thec64-joystick)
+Library based on DigisparkJoystick (wich is based on [http://www.obdev.at/vusb/](http://www.obdev.at/vusb/)) adapted to match USB identification of a ["The C64 Joystick"](https://retrogames.biz/thec64-joystick)
 
 ## Installation
 * [Arduino IDE](https://www.arduino.cc/en/main/software)
